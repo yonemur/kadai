@@ -89,3 +89,7 @@ p, ol, ul, td {
     margin-top:10px;
     margin-bottom: 10px;
 }
+
+.flash{
+    color: green;
+}
